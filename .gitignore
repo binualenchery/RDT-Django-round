@@ -1,3 +1,4 @@
 *.pyc
 management/
 db.sqlite3
+myvenv/
